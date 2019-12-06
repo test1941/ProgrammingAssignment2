@@ -1,5 +1,5 @@
 ## The makeCacheMatrix function returns four functions. When we pass
-## a matrix to the function, matrix is hold in memory and can be
+## a matrix to the function, it is hold in memory and can be
 ## retrieved by get function and inverse is firstly set to null. 
 ## Then, in the cacheSolve function, inverse is calculated. When a
 ## new matrix is passed to set function, the output is passed to
